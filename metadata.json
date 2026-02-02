@@ -1,0 +1,11 @@
+{
+  "name": "dripDog x",
+  "symbol": "DRIPX",
+  "description": "No alpha. Just drip. 💧🐶",
+  "image": "https://raw.githubusercontent.com/leooliva45-afk/dripdogx-/main/dripdogx.PNG",
+  "external_url": "https://dripdogx.xyz",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Chill" },
+    { "trait_type": "Supply", "value": "1,000,000,000 fixed" }
+  ]
+}
